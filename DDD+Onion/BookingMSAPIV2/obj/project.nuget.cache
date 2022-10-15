@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "eStbKHWGjK+zc3QTPcKD+KOKM2O8htR5VLvO9x6HY5y3F/rIzycQZ8bIRVL66r8BqHyER4vD5Cl/8r9qpmvPkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maribeiro\\Desktop\\F3M-Trainings-Final\\DDD+Onion\\BookingMSAPIV2\\BookingMsApiV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maribeiro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\maribeiro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\maribeiro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\maribeiro\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\maribeiro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\maribeiro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\maribeiro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
